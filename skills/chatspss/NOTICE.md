@@ -7,4 +7,4 @@ This public baseline package, including its source code, instructions, scope ref
 Official website: https://chatspss.cn/
 
 
-This directory is additionally offered under Apache-2.0 for this contribution; the original MIT-0 option remains available. See LICENSE and LICENSE-APACHE-2.0. Upstream: https://github.com/jessepwj/ChatSPSS, release 0.2.4.
+This directory is additionally offered under Apache-2.0 for this contribution; the original MIT-0 option remains available. See LICENSE and LICENSE-APACHE-2.0. Upstream: https://github.com/jessepwj/ChatSPSS, release 0.2.5.
